@@ -1,0 +1,79 @@
+﻿HTML, CSS, and JS Review
+
+
+What is the difference between a Tag, Element, and Attribute?
+- Tag: a keyword within an HTML document that contains elements and and describes how the web browser will handle the code
+- Element: content and attributes within a tag
+- Attribute: more information about the elements such as size or color, a key/value pair that provides metadata to an element
+
+
+Give an example of at least 1 block element and 1 inline element.
+- Block: a table 
+- Inline: a href
+
+
+What are some tools to enable our websites to be accessible to all users?
+- aria, and you can affect the tab order if you really need to
+
+
+What is a selector in CSS?
+- 
+
+
+What is a Property in CSS?
+- keyword that modifies behavior and appearance of HTML code
+
+
+What does Responsive mean in the context of web design?
+- 
+
+
+Explain the Box Model.
+- 
+
+
+What does Type Coercion refer to?
+- 
+
+
+What are the Falsey values?
+- NaN
+- null
+- undefined
+- document.all
+- 0
+- bigint
+- negative 0
+
+
+What is the difference between =, ==, and === in JavaScript? (Research this one!)
+- =:
+- ==:
+- ===:
+
+
+What is the difference between "let" and "var"?
+- let: block scoped variable definition in Javascript
+- var: globally scoped variable definition in Javascript
+
+
+What is the DOM?
+- 
+
+
+How do we enable our webpage to react to user input?
+-  We do this by adding event listeners to our Javascript code
+
+
+What are the phases of event propagation?
+- Bubbling
+- Capture phase
+
+
+Name 2 differences between arrow functions and normal functions.
+- 
+- 
+
+
+What is a Decorator?
+- shorthand for decorator method and it modifies the behavior of function passed to it by returning a new function
